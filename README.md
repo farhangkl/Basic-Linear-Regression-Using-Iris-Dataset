@@ -1,4 +1,3 @@
-# Basic-Linear-Regression-Using-Iris-Dataset
+# Solar Energy Comparision ML Models
 
-Source Code for my medium post
-https://medium.com/@darrylsws/linear-regression-using-iris-dataset-hello-world-of-machine-learning-b0feecac9cc1
+This packages compare the different ML mdoels propsoed for generated data-set of solar energy situtation in Iran
